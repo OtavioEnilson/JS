@@ -1,8 +1,8 @@
-var vel= 60
+var vel= 79
 
 console.log(`A velocidade do seu carro é ${vel}Km/h`)
 
-if (vel > 65) {
+if (vel > 60) {
     console.log(`VOCE FOI MULTADO!`)
 } 
 
