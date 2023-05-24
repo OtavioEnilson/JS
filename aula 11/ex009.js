@@ -5,7 +5,7 @@ console.log(`Vivendo em ${país}`)
 if (país == 'eua') {Você é entrageiro
     
 } else {
-    console.log(`Você é brasileiro`
+    console.log(`Você é brasileiro`)
     
 }
 
