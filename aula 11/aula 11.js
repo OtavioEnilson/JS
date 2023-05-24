@@ -1,4 +1,4 @@
-var vel= 79
+var vel= 90
 
 console.log(`A velocidade do seu carro é ${vel}Km/h`)
 
