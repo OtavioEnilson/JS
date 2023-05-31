@@ -1,11 +1,10 @@
-var país = 'eua'
+var país = 'frança'
+console.log(`Voce é ${país}`)
 
-console.log(`Vivendo em ${país}`)
+if (país != 'frança') {'Você é entrageiro'} 
 
-if (país == 'eua') {Você é entrageiro
-    
-} else {
-    console.log(`Você é brasileiro`)
+else {
+    console.log('Você é brasileiro')
     
 }
 
