@@ -2,9 +2,21 @@ body{
 
 background-color: grey;
 }
-
+header{
+    
+}
 header > h1{
+    color: white;
+    background-color: black;
     text-align: center;
+    border-radius: 1px;
+    text-align: center;
+}
+
+div#tabela{
+    text-align: center;
+    border-radius: 1px 1px 1px 1px;
+    padding: 30px;
 }
 
 select#flista{
@@ -13,6 +25,13 @@ select#flista{
 
 
 footer{
+       
         text-align: center;
+        padding-top: 550px;
 
+}
+
+footer > p {
+    color: white;
+    background-color: black;
 }
